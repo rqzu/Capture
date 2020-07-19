@@ -2,7 +2,7 @@
 Records Screen for 7 seconds then sends off via webhook.
 
 # Requirements
-- pip install pyscreenshot
+- pip install screen_recorder_sdk 
 - pip install requests
 
 # Known Issues
